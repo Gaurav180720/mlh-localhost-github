@@ -47,7 +47,7 @@ Vancouver, Canada
 Toronto, Canada
 
 Tokyo, Japan
-
+nikhil, pakistan
 Copenhagen, Denmark
 
 Adelaide, Australia
@@ -153,5 +153,3 @@ Ho Chi Minh City, Vietnam
 St. Catharines, Canada
 
 Dzerzhinsk, Russia
-
-hyderabad,india
